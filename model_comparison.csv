@@ -1,0 +1,6 @@
+Algorithm,Accuracy
+Decision Tree,0.647
+Naive Bayes,0.846
+KNN,0.697
+SVM,0.938
+Random Forest,0.835
